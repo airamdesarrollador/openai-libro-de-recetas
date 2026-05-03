@@ -1,7 +1,7 @@
-# Contributing the the cookbook
+# Contribuciones al libro de recetas de OpenAI
 
-The OpenAI Cookbook is a collection of useful patterns and examples of working with the OpenAI platform, provided as a community resource.
+El Libro de recetas de OpenAI es una recopilación de patrones útiles y ejemplos para trabajar con la plataforma OpenAI, que se ofrece como recurso para la comunidad.
 
-> Contributions are reviewed on a best-effort basis - we can't provide guarantees around when or if content contributions will be reviewed or merged.
+> Las contribuciones se revisan en la medida de lo posible; no podemos ofrecer garantías sobre cuándo o si las contribuciones de contenido serán revisadas o fusionadas.
 
-Stay tuned to this page for further guidance on cookbook contributions as they become available 🙏
+Manténgase atento a esta página para obtener más información sobre las contribuciones a libros de cocina a medida que estén disponibles. 🙏
